@@ -10,6 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
+//////timro program ma error xa correction gara cdvcdvdvcvcdf
 public class URLConnectionDemo {
     
     public static void main(String[] args) throws IOException {
